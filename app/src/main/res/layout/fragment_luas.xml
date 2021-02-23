@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:padding="10dp"
-            android:text="@{dataState.luasTitleMessage}"
+            android:text="@{`Showing Route ` + dataState.luasTitleMessage}"
             android:textColor="@color/teal_700"
             android:textSize="15sp"
             android:textStyle="bold"
