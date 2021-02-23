@@ -1,5 +1,5 @@
 # Luas-Guide
-- Sampmle Application to show Luas route and time
+- Sample Application to show Luas route and time
 
 ## Features Included
 - Pull to Refresh
