@@ -5,8 +5,10 @@
 - Pull to Refresh
 - Data binding
 - MVVM Architecture
-- RX Java for network call
+- Retrofit For network call
+- RX Java Async network call
 - KOIN for dependency injection
+- Lifecycle component for Observable data and data binding
 
 ## Project Structure
 - Main Activity
