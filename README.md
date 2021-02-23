@@ -16,6 +16,6 @@
       
       
 ## Screenshot of the UI
-<img src="https://github.com/spdobest/ReactJs-World/blob/master/Images/howReactUpdateDom.png" width="700" height="400"/>
+<img src="https://github.com/prasad111/Luas-Guide/blob/master/ScreenShot.jpeg" width="400" height="700"/>
 
 
